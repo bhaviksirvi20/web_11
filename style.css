@@ -97,7 +97,7 @@ input {
 .t2l {
     height: inherit;
     width: 30%;
-    background-image: url(./images.jpg);
+    background-image: url(./assets/images.jpg);
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
@@ -187,7 +187,7 @@ a:hover {
     height: 122.5vh;
     width: 100%;
     background-color: beige;
-    background-image: url(./i1.jpg);
+    background-image: url(./assets/i1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -333,7 +333,7 @@ a:hover {
 .secbtl {
     height: 489px;
     width: 50%;
-    background-image: url(./b1.jpg);
+    background-image: url(./assets/b1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -459,7 +459,7 @@ a:hover {
 .secbbr {
     height: 489px;
     width: 50%;
-    background-image: url(./b2.jpg);
+    background-image: url(./assets/b2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -510,7 +510,7 @@ a:hover {
     height: 300px;
     width: 300px;
     /* background-color: red; */
-    background-image: url(./sec3\ 1.jpg);
+    background-image: url(./assets/sec3\ 1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -586,7 +586,7 @@ a:hover {
     height: 300px;
     width: 300px;
     /* background-color: red; */
-    background-image: url(./sec3\ 2.jpg);
+    background-image: url(./assets/sec3\ 2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -596,7 +596,7 @@ a:hover {
     height: 300px;
     width: 300px;
     /* background-color: red; */
-    background-image: url(./sec\ 3\ 3.jpg);
+    background-image: url(./assets/sec\ 3\ 3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -689,7 +689,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./01.jpg);
+    background-image: url(./assets/01.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -702,7 +702,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./02.jpg);
+    background-image: url(./assets/02.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -715,7 +715,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./03.jpg);
+    background-image: url(./assets/03.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -728,7 +728,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./04.jpg);
+    background-image: url(./assets/04.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -741,7 +741,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./05.jpg);
+    background-image: url(./assets/05.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -754,7 +754,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./06.jpg);
+    background-image: url(./assets/06.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -767,7 +767,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./07.jpg);
+    background-image: url(./assets/07.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -780,7 +780,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./08.jpg);
+    background-image: url(./assets/08.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -793,7 +793,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./09.jpg);
+    background-image: url(./assets/09.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -806,7 +806,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./10.jpg);
+    background-image: url(./assets/10.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -819,7 +819,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./11.jpg);
+    background-image: url(./assets/11.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -832,7 +832,7 @@ span {
     height: 250px;
     width: 23.5%;
     /* background-color: blue; */
-    background-image: url(./12.jpg);
+    background-image: url(./assets/12.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1004,7 +1004,7 @@ label {
     height: 100px;
     width: 35%;
     /* border: 2px solid black; */
-    background-image: url(./Screenshot\ \(1561\).png);
+    background-image: url(./assets/Screenshot\ \(1561\).png);
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
